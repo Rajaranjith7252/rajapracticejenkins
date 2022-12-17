@@ -1,2 +1,0 @@
-# rajapracticejenkins
-rajapracticejenkins

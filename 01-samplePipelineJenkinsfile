@@ -5,8 +5,9 @@ pipeline{
             steps{
                 sh """
                     pwd
+                  
                     cd /tmp
-                    touch soorya.txt
+                    touch test.txt
                     """
             }
         }
